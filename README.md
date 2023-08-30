@@ -1,7 +1,7 @@
 # タスク管理アプリ
 
 ## 課題
-PHP/LaravelもしくはPython3/FastAPIでオリジナルサイト作成
+Python3/FastAPIでオリジナルサイト作成
 
 ## 必須機能
 #### ・CRUD処理
